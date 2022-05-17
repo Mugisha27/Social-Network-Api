@@ -1,0 +1,25 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mugisha27/Social-Network-Api.git"
+  },
+  "author": "Chris Mugisha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mugisha27/Social-Network-Api/issues"
+  },
+  "homepage": "https://github.com/Mugisha27/Social-Network-Api#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongodb": "^4.6.0",
+    "mongoose": "^6.3.3"
+  }
+}
