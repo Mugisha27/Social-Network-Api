@@ -18,7 +18,7 @@ A NoSQL database Api that demonstrate how to run a social network service using 
 
 ## INSTALLATION
 Creates all the files necessary starting by the server.js file, the controllers and models as well the connection file that is inside the configuration folder
-![Installation](images//Users/chrismugisha/Desktop/readm/images/Untitled.png)
+
     
 ## USAGE
 GIVEN a social network API
@@ -31,7 +31,7 @@ THEN I am able to successfully create, update, and delete users and thoughts in 
 WHEN I test API POST and DELETE routes in Insomnia
 THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
 
-![Usage](images//Users/chrismugisha/Desktop/readm/images/title.png)
+![Usage](img/screenshot.png)
     
 ## LICENSE
 [![License: MIT License](https://img.shields.io/badge/License-MIT License-blue.svg)](https://opensource.org/licenses/MIT License)
