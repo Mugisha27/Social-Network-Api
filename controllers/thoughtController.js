@@ -70,7 +70,7 @@ const thoughtController = {
       })
       .catch((err) => {
         res.status(500).json(err);
-        console.log("Create Reaction Error!");
+        console.log("There is an error!");
       });
   },
   deleteReaction(req, res) {
@@ -85,7 +85,7 @@ const thoughtController = {
       Reaction.deleteOne()
       .catch((err) => {
         res.status(500).json(err);
-        console.log("Create Reaction Error!");
+        console.log("There is an Error!");
       });
   },
 };
